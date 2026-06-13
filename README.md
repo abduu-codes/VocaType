@@ -8,7 +8,7 @@ A fully free, browser-based voice-to-text editor with real-time transcription, A
 
 ## 🌐 Live Demo
 
-Hosted on GitHub Pages → `https://abduu-codes.github.io/vocatype`
+Hosted on GitHub Pages → `https://abduu-codes.github.io/VocaType/`
 
 ---
 
